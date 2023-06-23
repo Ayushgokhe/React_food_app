@@ -1,7 +1,7 @@
 const Sdata = [
     {
         img:"https://b.zmtcdn.com/data/pictures/0/19242890/14805d09420cc46017245a5e34ba6290_o2_featured_v2.jpg?output-format=webp",
-        name:"Golden Harvest - Airport Centre Point"
+        name:"Golden Harvest - Centre Point"
     },
     {
         img:"https://b.zmtcdn.com/data/pictures/chains/0/3300300/e8cf1c58f2bb217f3d85ff50b7fe39a3_o2_featured_v2.jpg?output-format=webp",

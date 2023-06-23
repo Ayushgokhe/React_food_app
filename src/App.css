@@ -198,6 +198,8 @@ p {
   flex-wrap: wrap;
 }
 
+
+
 .service_container h1 {
   text-align: center;
   margin: 30px;
@@ -208,9 +210,10 @@ p {
   color: black;
   margin: 10px;
   padding: 7px;
-  width: 380px;
+  width: 375px;
   border-radius: 7px;
 }
+
 
 .service_data img {
   width: 350px;
@@ -226,4 +229,21 @@ p {
 .service_data:hover {
   border-radius: 15px;
   box-shadow: 0.3rem 0.4rem 0.3rem 0.4rem rgb(94, 93, 93);
+}
+
+@media screen and (max-width:500px) {
+  .box {
+    margin:20px 0px;
+  }
+  .service_data img {
+    width: 300px;
+    height: 160px;
+  }
+  .service_data {
+    width: 320px;
+  }
+  .service_data p {
+    margin-top: 10px;
+    padding:10px 0px 0px 0px;
+  }
 }
